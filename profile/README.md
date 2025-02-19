@@ -1,4 +1,4 @@
-# Certus Core
+# Connect the Unexpected
 
 ![Certus Core](../assets/Certus%20Core.png)
 
