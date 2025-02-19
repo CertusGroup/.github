@@ -1,6 +1,6 @@
 # Certus Core
 
-![Certus Core](./assets/Certus%20Core.png)
+![Certus Core](../assets/Certus%20Core.png)
 
 ## About
 
